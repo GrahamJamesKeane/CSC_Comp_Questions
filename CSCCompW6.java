@@ -47,7 +47,7 @@
 *
 *				ii:		Find the size of the encryption grid.
 *				
-*				iii:	Create and fill the encryption grid:
+*				iii:		Create and fill the encryption grid:
 *
 *						a)	A nested for-loop iterates through the String and add's the character at position zero to a 2D array.
 *							This charcter is then removed from the String.
@@ -60,7 +60,7 @@
 *
 *				ii:		Find the size of the decryption grid.
 *
-*				iii:	Create and fill the decryption grid:
+*				iii:		Create and fill the decryption grid:
 *
 *						Note:	I have used the .split() method to separate the encrypted String into individual words and then added 
 *								a single word to a single column. This process prevents characters being misplaced as will occur if a

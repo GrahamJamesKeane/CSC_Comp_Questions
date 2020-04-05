@@ -63,8 +63,8 @@
 *				iii:		Create and fill the decryption grid:
 *
 *						Note:	I have used the .split() method to separate the encrypted String into individual words and then added 
-*								a single word to a single column. This process prevents characters being misplaced as will occur if a
-*								traditional nested-loop approach is used.
+*							a single word to a single column. This process prevents characters being misplaced as will occur if a
+*							traditional nested-loop approach is used.
 *
 *				iv:		Print the encrypted message
 *
